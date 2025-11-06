@@ -13,11 +13,12 @@
 30#AUTH#DIED###AH: 0833-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: viaf@id, wikidata@id, src@id
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: Sezgin, Geschichte des arabischen Schrifttums 14.305:
     "Ḥāfiẓ-i Abrū, from Herat, apparently grew up in Hamadan.
     Very little is known about his life's circumstances.
-    As can be discerned from his own statements, he was known 
+    As can be discerned from his own statements, he was known
     as a chess master and was in the service of Timur and his son Shārukh.
     He has reported as an eye witness about the latter's campaigns.
     He died in 833/1430 in Zanjān."
